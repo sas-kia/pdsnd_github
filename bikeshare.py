@@ -19,7 +19,7 @@ def get_filters():
     # List valid cities
     listOfCities = ['chicago' , 'new york city', 'washington']
     
-    # Get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
+    # Get user input for city (chicago, new york city, washington).
     city_raw = input("Would you like to see data for Chicago, New York or Washington?")
     city = city_raw.lower()
     
