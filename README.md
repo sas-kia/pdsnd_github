@@ -30,6 +30,7 @@ earliest, most recent, most common year of birth (only available for NYC and Chi
 
 ### Files used
 bikeshare.py
+Data files are not included in this repository.
 
 ### Credits
 Inspired by Udacity Course "Programming for Data Science with Python"
