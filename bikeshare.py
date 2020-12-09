@@ -24,7 +24,7 @@ def get_filters():
     city = city_raw.lower()
     
     # Transform input for New York City
-    ListOfNYC = ['new york' , 'nyc', 'ny']
+    ListOfNYC = ['new york' , 'nyc', 'ny', 'newyork', 'n y']
     if city in ListOfNYC:
         city = 'new york city'
     
