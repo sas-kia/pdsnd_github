@@ -5,7 +5,7 @@
 Python Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+Analyze usage data from a bikeshare company in Chicago, New York and Washington.
 
 ### Files used
 Include the files used
